@@ -31,7 +31,7 @@ Kaya, M. S., Osmanoğlu, M., Özkan, M., Ar, Y., Nak, S.T.  (2025). *Malicious U
 ```bibtex
 @misc{kaya2025malicious,
   title        = {Malicious URL Dataset},
-  author       = {Muhammed Saadetdin Kaya and Murat Osmanoğlu and Merve Özkanand Yılmaz Ar and Şafak Tezcan Nak},
+  author       = {Muhammed Saadetdin Kaya and Murat Osmanoğlu and Merve Özkan and Yılmaz Ar and Şafak Tezcan Nak},
   year         = {2025},
   howpublished = {\url{https://github.com/sgmyo-ankara/malicious-url-dataset}},
   note         = {Accessed: 2025-10-08}
